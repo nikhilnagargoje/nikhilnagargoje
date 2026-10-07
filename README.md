@@ -81,5 +81,5 @@ I use AI development tools such as ChatGPT, Claude, GitHub Copilot and Gemini as
 ## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/nikhil-nagargoje/) 
-[Portfolio](https://new-portfolio-dun-phi.vercel.app/)
+• [Portfolio](https://new-portfolio-dun-phi.vercel.app/)
 • [Hashnode](https://nikhilnagargojebuilds.hashnode.dev/)
